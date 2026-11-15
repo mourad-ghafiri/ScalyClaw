@@ -139,7 +139,7 @@ Then open `http://localhost:4173?token=<token>` for the dashboard.
 
 ```bash
 # 📦 Clone & build
-git clone https://github.com/scalyclaw/scalyclaw.git && cd scalyclaw
+git clone https://github.com/mourad-ghafiri/ScalyClaw.git && cd ScalyClaw
 bun install && bun run build
 
 # ⚙️ Setup & run

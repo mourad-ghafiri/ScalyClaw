@@ -1008,7 +1008,7 @@ LOGO
       rm -rf "$SCALYCLAW_REPO"
     fi
     info "Cloning ScalyClaw..."
-    git clone https://github.com/scalyclaw/scalyclaw.git "$SCALYCLAW_REPO"
+    git clone https://github.com/mourad-ghafiri/ScalyClaw.git "$SCALYCLAW_REPO"
     cd "$SCALYCLAW_REPO"
   fi
 

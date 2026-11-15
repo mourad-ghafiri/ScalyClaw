@@ -241,7 +241,7 @@ function injectHeader() {
       </div>
       <div class="docs-header-links">
         <a href="../index.html" class="docs-header-link">${ICONS.home} Home</a>
-        <a href="https://github.com/scalyclaw/scalyclaw" target="_blank" class="docs-header-link">${ICONS.github} GitHub</a>
+        <a href="https://github.com/mourad-ghafiri/ScalyClaw" target="_blank" class="docs-header-link">${ICONS.github} GitHub</a>
       </div>
     </div>
   `;
